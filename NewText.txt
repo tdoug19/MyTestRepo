@@ -11,3 +11,10 @@ I am updating this feature.. I will post a pull request to verify.I need to keep
 tdoug19
 I am happy making changes and I know that I have approved a pull request.  So I need to merge that change to my local branch.
 
+
+
+
+
+tdoug19Branch3.
+I am making changes... but I need to merge in changes from master because they have my colleagues updates.  First switch to 
+master branch and pull the changes.
