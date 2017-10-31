@@ -20,3 +20,7 @@ Lets put these changes on a new branch.
 My username is testTdoug19.. so that can be the branch name.
 I am making changes... but I need to merge in changes from master because they have my colleagues updates.  First switch to 
 .Just to make sure I know I am on this branch.
+
+
+Now on Branch Oct212017_1
+Made a change for this branch.
